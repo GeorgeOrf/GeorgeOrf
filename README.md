@@ -22,7 +22,6 @@ Some of my current areas of focus include:
 
 - **Business Management Systems:** Developing a booking and operational management platform for CADEP, designed to streamline internal workflows and replace spreadsheet-based processes.
 - **Booking Platforms:** Building modern appointment management systems for businesses, including barbershops.
-- **E-commerce:** Developing DROP, a full-stack clothing e-commerce project focused on real-world functionality and scalability.
 
 ### 🛠️ Tech Stack
 
